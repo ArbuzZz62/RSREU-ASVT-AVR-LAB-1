@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\AVR</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\AVR\Laba_8.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\AVR\Laba_8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\AVR\Laba_8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\AVR\Laba_8.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\AVR\Laba_8.asm</FILE><LINE>9</LINE></start>
+  <pp0><FILE>C:\AVR\Laba_8.asm</FILE><LINE>27</LINE></pp0>
+  <pp1><FILE>C:\AVR\Laba_8.asm</FILE><LINE>30</LINE></pp1>
+  <m1><FILE>C:\AVR\Laba_8.asm</FILE><LINE>24</LINE></m1>
+ </LABELS>
+</ASSEMBLER_INFO>
